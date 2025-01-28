@@ -428,3 +428,10 @@ ls --color=auto
 ./queries.sh
 ./queries.sh > my_output.txt
 ./queries.sh > my_output.txt
+git pull --rebase
+git status
+less .freeCodeCamp/test/.cwd
+less -NS .freeCodeCamp/test/.cwd
+less -NS .freeCodeCamp/test/.next_command
+git status
+git add --all
